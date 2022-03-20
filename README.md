@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=djdkdjd12)](https://solved.ac/djdkdjd12)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=djdkdjd12)](https://solved.ac/djdkdjd12)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jun02160)](https://github.com/jun02160/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브아이디)](https://github.com/깃허브아이디/github-readme-stats)
