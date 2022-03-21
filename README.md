@@ -23,8 +23,9 @@ Here are some ideas to get you started:
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=djdkdjd12)](https://solved.ac/djdkdjd12)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=djdkdjd12)](https://solved.ac/djdkdjd12)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jun02160)](https://github.com/jun02160/github-readme-stats)
+
+
 
 
 ### 🛠****Tech Stack****
@@ -60,7 +61,8 @@ Here are some ideas to get you started:
 </br>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jun02160)](https://github.com/jun02160/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jun02160)](https://github.com/jun02160/github-readme-stats)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=djdkdjd12)](https://solved.ac/djdkdjd12)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
