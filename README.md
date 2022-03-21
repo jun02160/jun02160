@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
 <!--
 **jun02160/jun02160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,16 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🔥 Yejun Park 🥰   
+## Yejun Park   
 - 🏫 Sookmyung Women's University
 - 🔬 Major
     - IT Engineering
 - 📫 jun020216@sookmyung.ac.kr
+
+<p>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=djdkdjd12)](https://solved.ac/djdkdjd12)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=djdkdjd12)](https://solved.ac/djdkdjd12)
+</p>
 
+### 🛠****Tech Stack****
 <p>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
