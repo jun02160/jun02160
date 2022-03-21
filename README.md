@@ -21,12 +21,11 @@ Here are some ideas to get you started:
     - IT Engineering
 - 📫 jun020216@sookmyung.ac.kr
 
-<p>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=djdkdjd12)](https://solved.ac/djdkdjd12)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=djdkdjd12)](https://solved.ac/djdkdjd12)
-</p>
+
 
 ### 🛠****Tech Stack****
 <p>
@@ -55,7 +54,7 @@ Here are some ideas to get you started:
 
 | Name | Role | Period |
 | --- | --- | --- |
-| [CODE-IT](https://solux.tistory.com/) | IT Engineering Academy Leader | 2021.03 ~ 2023.02 |
+| [CODE-IT] | IT Engineering Academy Leader | 2021.03 ~ 2023.02 |
 | [PIROGRAMMING](https://pirogramming.com/) | 16th Member | 2021.12 ~ 2022.02 |
 | [PIROGRAMMING](https://pirogramming.com/) | 17th team | 2022.06 ~ 2022.08 |
 </br>
