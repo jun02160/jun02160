@@ -34,6 +34,16 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/>
 <img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/>
 
+### 🏇 ****Experience****
+
+| Name | Role | Period |
+| --- | --- | --- |
+| [CODE-IT](https://solux.tistory.com/) | IT Engineering Academy Leader | 2021.03 ~ 2023.02 |
+| [PIROGRAMMING](https://pirogramming.com/) | 16th Member | 2021.12 ~ 2022.02 |
+| [PIROGRAMMING](https://pirogramming.com/) | 17th team | 2022.06 ~ 2022.08 |
+</br>
+
+![seohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jun02160&theme=radical&show_icons=true)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jun02160)](https://github.com/jun02160/github-readme-stats)
