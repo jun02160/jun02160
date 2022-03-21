@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🔥 Yejun Park 🥰   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseohyun319%2Fhit-counter&count_bg=%2345CDD0&title_bg=%23FF8394&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+- 🏫 Sookmyung Women's University
+- 🔬 Major
+    - IT Engineering
+- 📫 jun020216@sookmyung.ac.kr
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=djdkdjd12)](https://solved.ac/djdkdjd12)
 [![Solved.ac
@@ -42,8 +48,6 @@ Here are some ideas to get you started:
 | [PIROGRAMMING](https://pirogramming.com/) | 16th Member | 2021.12 ~ 2022.02 |
 | [PIROGRAMMING](https://pirogramming.com/) | 17th team | 2022.06 ~ 2022.08 |
 </br>
-
-![seohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jun02160&theme=radical&show_icons=true)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jun02160)](https://github.com/jun02160/github-readme-stats)
