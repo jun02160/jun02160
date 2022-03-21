@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🔥 Yejun Park 🥰   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseohyun319%2Fhit-counter&count_bg=%2345CDD0&title_bg=%23FF8394&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## 🔥 Yejun Park 🥰   
 - 🏫 Sookmyung Women's University
 - 🔬 Major
     - IT Engineering
