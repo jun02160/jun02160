@@ -21,12 +21,6 @@ Here are some ideas to get you started:
     - IT Engineering
 - 📫 jun020216@sookmyung.ac.kr
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=djdkdjd12)](https://solved.ac/djdkdjd12)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jun02160)](https://github.com/jun02160/github-readme-stats)
-
-
-
 
 ### 🛠****Tech Stack****
 <p>
@@ -61,6 +55,12 @@ Here are some ideas to get you started:
 | UMC SMWU | Server-Spring part | 2022.09 ~ ing |
 <br/>
 
+
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=djdkdjd12)](https://solved.ac/djdkdjd12)
+<br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jun02160)](https://github.com/jun02160/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jun02160)](https://github.com/jun02160/github-readme-stats)
 
 
