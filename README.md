@@ -40,11 +40,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
-    <img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/>
-    <img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/>
-    <img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/>
 </p>
 
+<!--
 ### 🏇 ****Experience****
 
 | Name | Role | Period |
@@ -54,12 +52,14 @@ Here are some ideas to get you started:
 | PIROGRAMMING | 17th Education team | 2022.03 ~ 2022.08 |
 | UMC SMWU | Server-Spring part | 2022.09 ~ ing |
 <br/>
+-->
 
 
-
+<!--
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=djdkdjd12)](https://solved.ac/djdkdjd12)
 <br/>
+-->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jun02160)](https://github.com/jun02160/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jun02160)](https://github.com/jun02160/github-readme-stats)
 
