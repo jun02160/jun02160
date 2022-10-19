@@ -55,14 +55,13 @@ Here are some ideas to get you started:
 
 | Name | Role | Period |
 | --- | --- | --- |
-| [CODE-IT] | IT Engineering Academy Leader | 2021.03 ~ 2023.02 |
-| [PIROGRAMMING](https://pirogramming.com/) | 16th Member | 2021.12 ~ 2022.02 |
-| [PIROGRAMMING](https://pirogramming.com/) | 17th team | 2022.06 ~ 2022.08 |
-</br>
-
+| CODE-IT | IT Engineering Academy Leader | 2021.03 ~ ing |
+| PIROGRAMMING | 16th Member | 2021.12 ~ 2022.12 |
+| PIROGRAMMING | 17th Education team | 2022.03 ~ 2022.08 |
+| UMC SMWU | Server-Spring part | 2022.09 ~ ing |
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jun02160)](https://github.com/jun02160/github-readme-stats)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=djdkdjd12)](https://solved.ac/djdkdjd12)
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
