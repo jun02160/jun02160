@@ -43,7 +43,8 @@ Here are some ideas to get you started:
 </p>
 
 <br/>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=djdkdjd12)](https://solved.ac/백준아이디/)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=djdkdjd12)](https://solved.ac/djdkdjd12/)
 
 <!--
 ### 🏇 ****Experience****
