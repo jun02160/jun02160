@@ -17,10 +17,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Park%20Yejun&fontSize=90)
 
-- 🏫 Sookmyung Women's University
-- 🔬 Major
-    - IT Engineering
-- 📫 jun020216@sookmyung.ac.kr
+
 
 <br/>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
@@ -35,11 +32,17 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/aws-333664?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>&nbsp
 </p>
 <br/>
+<!--<h3 align="center">🔗 Tool 🔗</h3>
+<p align="center">
+    
+</p>
+<br/>-->
 <h3 align="center">💌 Contact 💌</h3>
 <p align="center">
     <a href="https://velog.io/@dev_tmb"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>&nbsp
     <a href="https://www.instagram.com/jjuni_o2/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>&nbsp
-    <a href="https://github.com/jun02160"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+    <a href="https://github.com/jun02160"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>&nbsp
+    <a href="mailto:jun020216@sookmyung.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:yuns8671@gmail.com"/></a>
 </p>
 
 <p>    
