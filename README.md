@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 | CODE-IT | IT Engineering Academy Leader | 2021.03 ~ 2023.02 |
 | PIROGRAMMING | 16th Member, 17th Management-Education team | 2021.12 ~ 2022.08 |
 | UMC SMWU | Server-Spring part 3th Member, 4th Server part Leader | 2022.09 ~ 2023.08 |
-| SOPT | 32th YB Member | 2023.03 ~ 2023.07 |
+| SOPT | 32th YB Member | 2023.03 ~ ing |
 
 <h4>🌸 Projects</h4>
 
