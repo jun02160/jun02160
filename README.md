@@ -57,15 +57,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/aws-333664?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
     
 
-<h4>👾 Problem Solving</h4>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=djdkdjd12)](https://solved.ac/djdkdjd12/)
-
-
-
-
-
-
-
 
 
