@@ -7,7 +7,6 @@
 
 <h4> 💖 Experiences</h4>
 
-- 숙명여자대학교 IT공학전공 (2021.03 ~)
 - 숙명여자대학교 IT공학전공 알고리즘 학회 ‘CODE-IT’ 학회장 (2021.03 ~ 2023.02)
 - 웹 개발 동아리 '피로그래밍' 16기 부원, 17기 운영진-교육팀 (2021.12 ~ 2022.08)
 - 앱 서비스 런칭 대학생 IT 연합동아리 'UMC(University MakeUs Challenge)' 3기 Server Part, 4기 Server Part Leader (2022.09 ~ 2023.08)
