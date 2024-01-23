@@ -1,49 +1,19 @@
-<!--### Hi there 👋-->
-
-<!--
-**jun02160/jun02160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 ![header](https://capsule-render.vercel.app/api?type=waving&height=150&text=Happy%20JJUN's%20Github&fontSize=50&fontColor=FFFFF0&fontAlign=70&stroke=FFFFF0fafad2&strokeWidth=3)
 
 <h4> 🙋🏻‍♀️ About Me!</h4>
-서버 개발자를 꿈꾸며 성장하는 쭌입니다 😽
+매 순간에 몰입하며 꾸준한 노력으로 성장하는 개발자, 박예준입니다 😽
 
 <br/><br/>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jun02160)](https://github.com/jun02160/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jun02160&layout=compact)](https://github.com/jun02160/github-readme-stats)
-
-<h6>💌 Contact </h6>
-<a href="https://velog.io/@dev_tmb"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>&nbsp
-    <a href="https://www.instagram.com/jjuni_o2/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>&nbsp
-    <a href="https://github.com/jun02160"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>&nbsp
-    <a href="mailto:jun020216@sookmyung.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:yuns8671@gmail.com"/></a>
-
-
-
 <h4> 💖 Experiences</h4>
 
-
-| Name | Role | Period |
-| --- | --- | --- |
-| CODE-IT | IT Engineering Academy Leader | 2021.03 ~ 2023.02 |
-| PIROGRAMMING | 16th Member, 17th Management-Education team | 2021.12 ~ 2022.08 |
-| UMC SMWU | Server-Spring part 3th Member, 4th Server part Leader | 2022.09 ~ 2023.08 |
-| SOPT | 32nd YB Member, 33rd OB Member | 2023.03 ~ ing |
+- 숙명여자대학교 IT공학전공 (2021.03 ~)
+- 숙명여자대학교 IT공학전공 알고리즘 학회 ‘CODE-IT’ 학회장 (2021.03 ~ 2023.02)
+- 웹 개발 동아리 '피로그래밍' 16기 부원, 17기 운영진-교육팀 (2021.12 ~ 2022.08)
+- 앱 서비스 런칭 대학생 IT 연합동아리 'UMC(University MakeUs Challenge)' 3기 Server Part, 4기 Server Part Leader (2022.09 ~ 2023.08)
+- 대학생 연합 IT 벤처 창업 동아리 'SOPT' 32기, 33기 Server Part (2023.03 ~ 2024.01)
+- 부모의 추억을 자식과 공유하며 공감대를 찾는 문답형 아카이빙 서비스 '엄빠도 어렸다', Server Developer (2023.06 ~)
+- 자녀와 부모를 잇는 매일 한 걸음, 가족과 함께 만들어 나가는 오늘의 운동 습관 서비스 'Motivoo', Server Lead Developer (2023.12 ~)
 
 
 <h4>👩🏻‍💻 Tech Stack</h4>
@@ -58,4 +28,6 @@ Here are some ideas to get you started:
     
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jun02160)](https://github.com/jun02160/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jun02160&layout=compact)](https://github.com/jun02160/github-readme-stats)
 
