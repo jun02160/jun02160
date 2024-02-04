@@ -25,9 +25,10 @@
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/> <br/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/aws-333664?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
-    
 
+<
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jun02160)](https://github.com/jun02160/github-readme-stats)
-
-
+	
+| ![jjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jun02160&show_icons=true&title_color=000000&text_color=939393&icon_color=9796f0&hide_border=true&bg_color=00000000) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jun02160&layout=compact&hide_border=true&title_color=000000&text_color=939393&bg_color=00000000)](https://github.com/jun02160/) |
+| ------------- | ------------- |
+	
