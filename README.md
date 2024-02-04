@@ -22,11 +22,14 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=Kotlin&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/> <br/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/aws-333664?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Docker-016bc0?style=for-the-badge&logo=docker&logoColor=white"/></a>
 
-<
+
+<br/>
 
 	
 | ![jjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jun02160&show_icons=true&title_color=000000&text_color=939393&icon_color=9796f0&hide_border=true&bg_color=00000000) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jun02160&layout=compact&hide_border=true&title_color=000000&text_color=939393&bg_color=00000000)](https://github.com/jun02160/) |
